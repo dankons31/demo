@@ -1,3 +1,7 @@
 This is a simple readme file
 
-I hope dis ok
+<<<<<<< HEAD
+This will cause shit
+
+This will cause shit
+>>>>>>> verybad
